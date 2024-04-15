@@ -32,7 +32,7 @@
 
 ## Difference b/w AWS Application Load Balancer vs AWS API Gateway
 
-| AWS Application Load Balancer | AWS API Gateway |
+| **AWS Application Load Balancer** | **AWS API Gateway** |
 | --- | --- |
 | Layer 7 load balancer, which automatically distributes incoming traffic to backend targets. | Serverless API service from AWS. It acts as an entry-point for your application and site between applications and backend services. |
 | ALB support Web Application Firewall(WAF)protection out of the box | API gateway support Web Application Firewall(WAF)protection out of the box |
